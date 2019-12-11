@@ -1,0 +1,14 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   app/core/__pycache__/admin.cpython-37.pyc
+#	modified:   app/core/admin.py
+#	new file:   app/core/tests/__pycache__/test_admin.cpython-37.pyc
+#	new file:   app/core/tests/test_admin.py
+#
+
